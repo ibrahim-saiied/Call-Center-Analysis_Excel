@@ -86,16 +86,34 @@ The main goal is to understand where the problems are, improve team scheduling, 
 4) Created key measures using DAX (e.g., SL, FCR, CSAT)
 5) Designed an interactive Excel dashboard to visualize insights
 
-## Measures
+## Measures (Dax)
+;
+<img src="https://github.com/user-attachments/assets/62bacb17-9e9d-4412-82b7-8179673d61fc" alt="image" width="320" height="550" style="display: block; margin: 0;">
 
+## Data Model
+![image](https://github.com/user-attachments/assets/f7dbc60e-06e8-4cea-a919-f0636b2e7f4a)
 
+## Dashboard
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/5ca00b1d-f640-4c03-80f8-8697e9810934" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/cc739e81-5fba-43d1-a15d-4d04bebc29ed" />
 
-
-
-
-
-
-
+## Important Insights
+ 1) **Service Level is On Target**
+    - At 92.0%, we’re meeting our goal (91.5%), showing good responsiveness, but we need to keep monitoring performance on certain days.
+ 3) **Hold Time** 
+    - Current hold rate is 10.8%, exceeding the 10% target. Process optimization may help reduce this
+ 3) **First Call Resolution (FCR)**
+    - We achieved 92.1% FCR, which is well above the target (80%). This means most customer issues are solved on the first call a strong sign of quality service.
+4) **Answer Rate Needs Improvement**
+    - Current rate is 93.2%, slightly below the 95% target. This means we need to improve staffing or efficiency during busy hours.
+ 5) **Peak Hour is 3–4 PM**
+    - The highest call volume occurs between 3:00 and 4:00 PM with over 2,450 calls. This is a key time to ensure strong agent coverage.
+ 6) **Sunday & Saturday weekends volume & performance**
+    - Saturday and Sunday show 100% service level, mainly due to very low call volume and sufficient staffing.
+ 7) **Customer Inquiries & Resolution Rate**
+    - The resolution rate is highest for Tech Support (80.2%) and slightly lower for Billing and Complaints (78–79%).
+ 8) **Some agents rated below target**
+    - A few agents didn’t meet the target in several KPIs like rating, AHT, and hold %. This shows they may need more training or support to improve their performance.
 
 
 
