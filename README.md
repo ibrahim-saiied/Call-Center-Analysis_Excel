@@ -1,7 +1,9 @@
 # Call Center Analysis - Excel
 
-### Link to [Interactive Dashboard on novyPro](https://www.novypro.com/profile_about/ibrahim-saiied-1?Popup=memberProject&Data=1744451745063x789127784113938900) 
 ### Link to [MY Linked In](https://www.linkedin.com/in/ibrahim-saiied-data-analyst/) 
+### Link to [Download The Dashboard file](https://docs.google.com/spreadsheets/d/1TshA46xfcr-gyRMP8Tm3jguSN5KfBQkd/export?format=xlsx) 
+### Link to [Interactive Dashboard on novyPro](https://www.novypro.com/profile_about/ibrahim-saiied-1?Popup=memberProject&Data=1744451745063x789127784113938900)
+
 <br>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/be630b01-a423-4a63-b310-c4e74190e1db" alt="image" width="1000" height="500">
