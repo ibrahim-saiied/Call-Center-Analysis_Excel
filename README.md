@@ -94,8 +94,13 @@ The main goal is to understand where the problems are, improve team scheduling, 
 ![image](https://github.com/user-attachments/assets/f7dbc60e-06e8-4cea-a919-f0636b2e7f4a)
 
 ## Dashboard
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/5ca00b1d-f640-4c03-80f8-8697e9810934" />
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/cc739e81-5fba-43d1-a15d-4d04bebc29ed" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/dc81c929-aa05-4aab-b525-44d5aa7c4bbd" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/1977bd4a-6ebb-496b-bad8-5eeea6e89b35" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/0022b20a-be22-4d65-94f3-a061e77ecfe8" />
+
+
+[![Watch the demo](https://github.com/user-attachments/assets/2509495d-7fbf-4781-88c7-67f0db18b34f)](https://github.com/user-attachments/assets/eeb2cb96-1bd4-416c-8281-7c89d84cdc17)
+
 
 ## Important Insights
  1) **Service Level is On Target**
