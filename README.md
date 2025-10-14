@@ -96,8 +96,8 @@ The main goal is to understand where the problems are, improve team scheduling, 
 ![image](https://github.com/user-attachments/assets/f7dbc60e-06e8-4cea-a919-f0636b2e7f4a)
 
 ## Dashboard
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/dc81c929-aa05-4aab-b525-44d5aa7c4bbd" />
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/1977bd4a-6ebb-496b-bad8-5eeea6e89b35" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/cfe265fb-f23a-4011-9e48-9f863cdb33b0" />
+<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/9bc22607-284c-4b01-8330-c6e8a558a1f5" />
 <img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/0022b20a-be22-4d65-94f3-a061e77ecfe8" />
 
 
